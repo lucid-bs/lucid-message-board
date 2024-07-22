@@ -1,17 +1,7 @@
 {
   "stickied_messages": 
   [
-    {
-      "time": 1721671225,
-      "message": "Hello World",
-      "tooltip": "Uhh something cool ig"
-    },
-    {
-      "time": 1721671225,
-      "message": "Hehe look at me",
-      "tooltip": "I'm at the top!"
-    }
-  ],
+  ]
   "messages": 
   [
     {
