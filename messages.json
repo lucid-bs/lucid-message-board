@@ -1,0 +1,25 @@
+{
+  "stickied_messages": 
+  [
+    {
+      "time": 1721671225,
+      "message": "Hello World",
+      "tooltip": "Uhh something cool ig"
+    },
+    {
+      "time": 1721671225,
+      "message": "Hehe look at me",
+      "tooltip": "I'm at the top!"
+    }
+  ],
+  "messages": 
+  [
+    {
+      "time": 1721671376,
+      "message": "This is a test to make sure that we can freely push updates for new features we want to make you aware of. If any changes major changes are made to the mapping experience, you'll be made aware via this section here. Hover for further information.",
+      "tooltip": "This message will either go away, or get buried under the rest of the stuff."
+    }
+  ]
+    
+  
+}
